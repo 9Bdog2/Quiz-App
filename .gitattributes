@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Simple Quiz Game Application
+
+-An application build with HTML, CSS and Javascript
+-Answer the question and get a score at the end of playing the game
+
